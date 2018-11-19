@@ -1,3 +1,0 @@
-rate=1.90
-lanecount=1
-enviroinment=development
